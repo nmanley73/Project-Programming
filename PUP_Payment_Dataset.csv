@@ -15,9 +15,9 @@ Noel Gavaghan,Male,29,2,Agriculture & Fisheries,Munster,08/06/2020,87
 Leonie Smith,Female,26,4,Admin & Support,Munster,29/06/2020,108
 Ruth Price,Female,40,10,Admin & Support,Munster,29/06/2020,108
 Aisling Quinn,Female,31,2,Accomodation & Food Services,Ulster,29/06/2020,108
-Stephen Ryan,Male,58,24,Accomodation & Food Services,Ulster,29/06/2020,108
+Stephen Ryan,Male,58,14,Accomodation & Food Services,Ulster,29/06/2020,108
 Patricia Brett,Female,55,5,Accomodation & Food Services,Ulster,29/06/2020,108
-Katie Hannon,Female,39,4,Finance & Insurance,Ulster,29/06/2020,108
+Katie Hannon,Female,39,14,Finance & Insurance,Ulster,29/06/2020,108
 Lilly McDonnell,Female,20,1,Education,Leinster,29/06/2020,108
 Matthew Gallagher,Male,33,3,Retail,Leinster,08/06/2020,87
 Eamon Carty,Male,39,15,Retail,Leinster,08/06/2020,87
@@ -32,7 +32,7 @@ Lucy Treacy,Female,29,2,Beauty,Leinster,29/06/2020,108
 Declan Timlin,Male,32,6,Accomodation & Food Services,Leinster,29/06/2020,108
 Michelle Corcoran,Female,31,4,Accomodation & Food Services,Leinster,29/06/2020,108
 Tommy Durkin,Male,64,37,Accomodation & Food Services,Leinster,29/06/2020,108
-Thomas Moilloy,Male,19,1,Arts,Leinster,,279
+Thomas Moilloy,Male,19,1,Arts,Leinster,n/a,279
 Geraldine Brennan,Female,45,18,Finance & Insurance,Leinster,29/06/2020,108
 Sean ODriscoll,Male,29,9,Manufacturing,Leinster,29/06/2020,108
 Niamh Cawley,Female,48,14,Admin & Support,Leinster,29/06/2020,108
@@ -41,7 +41,7 @@ Andrea Carr,Female,54,32,Professional & Scientific,Leinster,29/06/2020,108
 Claire Bailey,Female,36,12,Human health & social work,Leinster,29/06/2020,108
 Jack Cresswell,Male,44,5,Retail,Leinster,08/06/2020,87
 Rachel Bradley,Female,21,3,Beauty,Leinster,29/06/2020,108
-Louise Martagh,Female,53,25,Accomodation & Food Services,Leinster,29/06/2020,108
+Louise Martagh,Female,53,5,Accomodation & Food Services,Leinster,29/06/2020,108
 Glen Curley,Male,34,4,Real Estate,Leinster,08/06/2020,87
 Marie McVann,Female,56,23,Information & Commercial activities,Leinster,08/06/2020,87
 Tom Lundy,Male,19,1,Admin & Support,Leinster,29/06/2020,108
@@ -57,7 +57,7 @@ Brenda Healy,Female,21,3,Accomodation & Food Services,Connaught,29/06/2020,108
 Eva Cabellero,Female,61,25,Retail,Connaught,08/06/2020,87
 Kenny McGrath,Male,47,6,Retail,Munster,08/06/2020,87
 Aoife Gavaghan,Female,21,1,Education,Munster,29/06/2020,108
-Daniel O Donnell,Male,57,25,Arts,Munster,,279
+Daniel O Donnell,Male,57,25,Arts,Munster,n/a,279
 Marian Henry,Female,40,7,Beauty,Munster,29/06/2020,108
 Johnny Byrne,Male,18,1,Real Estate,Leinster,08/06/2020,87
 Erin Kelly,Female,52,15,Accomodation & Food Services,Leinster,29/06/2020,108
@@ -74,13 +74,13 @@ Karen Monaghan,Female,58,3,Retail,Munster,08/06/2020,87
 Colin Boyle,Male,52,9,Accomodation & Food Services,Leinster,29/06/2020,108
 Cillian Morgan,Male,19,2,Construction,Leinster,15/05/2020,63
 Dylan Garrett,Male,38,18,Professional & Scientific,Leinster,29/06/2020,108
-Ryan Mc Dermott,Male,22,4,Arts,Leinster,,279
+Ryan Mc Dermott,Male,22,4,Arts,Leinster,n/a,279
 Eva ONeill,Female,30,4,Accomodation & Food Services,Connaught,29/06/2020,108
 Lesley Burke,Female,50,16,Accomodation & Food Services,Connaught,29/06/2020,108
 Holly Haran,Female,49,5,Retail,Connaught,08/06/2020,87
 Kyle Cummins,Male,22,1,Retail,Leinster,08/06/2020,87
 Mustafa Singh,Male,62,30,Information & Commercial activities,Leinster,29/06/2020,108
-Denise Goldrick,Female,60,20,Accomodation & Food Services,Leinster,29/06/2020,108
+Denise Goldrick,Female,60,5,Accomodation & Food Services,Leinster,29/06/2020,108
 Susan Collins,Female,22,1,Admin & Support,Leinster,29/06/2020,108
 Eliott Muldoon,Male,42,20,Education,Ulster,29/06/2020,108
 Gareth Feely,Male,44,9,Construction,Leinster,15/05/2020,63
@@ -99,4 +99,3 @@ Ciara Lee,Female,42,6,Accomodation & Food Services,Leinster,29/06/2020,108
 Michelle Reynolds,Female,32,4,Beauty,Leinster,29/06/2020,108
 Rose Rafferty,Female,24,4,Professional & Scientific,Leinster,29/06/2020,108
 Lisa McNulty,Female,30,5,Accomodation & Food Services,Leinster,29/06/2020,108
-,,,,,,,
