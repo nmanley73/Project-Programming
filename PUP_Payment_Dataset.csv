@@ -1,101 +1,101 @@
-Name,Gender,Age,Tenure,Job_Sector,Province,Deregistered,Days
-Mark Leonard,Male,35,12,Accomodation & Food Services,Leinster,29/06/2020,108
-Darragh McGowan,Male,18,1,Accomodation & Food Services,Ulster,29/06/2020,108
-Amy Walsh,Female,36,13,Accomodation & Food Services,Ulster,29/06/2020,108
-Liam OHara,Male,39,18,Agriculture & Fisheries,Munster,08/06/2020,87
-Adrian Harte,Male,25,3,Manufacturing,Munster,29/06/2020,108
-Molly Henry,Female,55,20,Retail,Munster,08/06/2020,87
-Oisin Egan,Male,28,4,Retail,Munster,08/06/2020,87
-Rian Dunne,Male,26,6,Construction,Munster,15/05/2020,63
-Brian Leaonard,Male,57,5,Retail,Munster,08/06/2020,87
-Aaron Gaughan,Male,18,1,Retail,Munster,08/06/2020,87
-Laura Fallon,Female,36,6,Beauty,Munster,29/06/2020,108
-Gary McIntyre,Male,27,4,Manufacturing,Munster,29/06/2020,108
-Noel Gavaghan,Male,29,2,Agriculture & Fisheries,Munster,08/06/2020,87
-Leonie Smith,Female,26,4,Admin & Support,Munster,29/06/2020,108
-Ruth Price,Female,40,10,Admin & Support,Munster,29/06/2020,108
-Aisling Quinn,Female,31,2,Accomodation & Food Services,Ulster,29/06/2020,108
-Stephen Ryan,Male,58,14,Accomodation & Food Services,Ulster,29/06/2020,108
-Patricia Brett,Female,55,5,Accomodation & Food Services,Ulster,29/06/2020,108
-Katie Hannon,Female,39,14,Finance & Insurance,Ulster,29/06/2020,108
-Lilly McDonnell,Female,20,1,Education,Leinster,29/06/2020,108
-Matthew Gallagher,Male,33,3,Retail,Leinster,08/06/2020,87
-Eamon Carty,Male,39,15,Retail,Leinster,08/06/2020,87
-David Manley,Male,37,2,Construction,Leinster,15/05/2020,63
-Nicole Kennedy,Female,18,1,Accomodation & Food Services,Leinster,29/06/2020,108
-Sarah Lang,Female,32,12,Admin & Support,Leinster,29/06/2020,108
-Eoin Walsh,Male,19,1,Accomodation & Food Services,Leinster,29/06/2020,108
-Kevin Earley,Male,19,1,Public Admin,Leinster,29/06/2020,108
-Barry Jennings,Male,43,9,Manufacturing,Leinster,29/06/2020,108
-Una Canavan,Female,20,2,Retail,Leinster,08/06/2020,87
-Lucy Treacy,Female,29,2,Beauty,Leinster,29/06/2020,108
-Declan Timlin,Male,32,6,Accomodation & Food Services,Leinster,29/06/2020,108
-Michelle Corcoran,Female,31,4,Accomodation & Food Services,Leinster,29/06/2020,108
-Tommy Durkin,Male,64,37,Accomodation & Food Services,Leinster,29/06/2020,108
-Thomas Moilloy,Male,19,1,Arts,Leinster,n/a,279
-Geraldine Brennan,Female,45,18,Finance & Insurance,Leinster,29/06/2020,108
-Sean ODriscoll,Male,29,9,Manufacturing,Leinster,29/06/2020,108
-Niamh Cawley,Female,48,14,Admin & Support,Leinster,29/06/2020,108
-Helen Watters,Female,38,5,Accomodation & Food Services,Leinster,29/06/2020,108
-Andrea Carr,Female,54,32,Professional & Scientific,Leinster,29/06/2020,108
-Claire Bailey,Female,36,12,Human health & social work,Leinster,29/06/2020,108
-Jack Cresswell,Male,44,5,Retail,Leinster,08/06/2020,87
-Rachel Bradley,Female,21,3,Beauty,Leinster,29/06/2020,108
-Louise Martagh,Female,53,5,Accomodation & Food Services,Leinster,29/06/2020,108
-Glen Curley,Male,34,4,Real Estate,Leinster,08/06/2020,87
-Marie McVann,Female,56,23,Information & Commercial activities,Leinster,08/06/2020,87
-Tom Lundy,Male,19,1,Admin & Support,Leinster,29/06/2020,108
-Deirdre ODonnell,Female,41,6,Public Admin,Leinster,29/06/2020,108
-Brian Deehan,Male,32,8,Construction,Leinster,15/05/2020,63
-Sinead Moran,Female,59,33,Accomodation & Food Services,Leinster,29/06/2020,108
-Declan McManus,Male,20,2,Accomodation & Food Services,Leinster,29/06/2020,108
-Fiona OConnor,Female,20,3,Retail,Connaught,08/06/2020,87
-Geoff Hopkins,Male,37,5,Retail,Connaught,08/06/2020,87
-Fiona Murphy,Female,53,11,Human health & social work,Connaught,29/06/2020,108
-Joanne Brogan,Female,52,10,Accomodation & Food Services,Connaught,29/06/2020,108
-Brenda Healy,Female,21,3,Accomodation & Food Services,Connaught,29/06/2020,108
-Eva Cabellero,Female,61,25,Retail,Connaught,08/06/2020,87
-Kenny McGrath,Male,47,6,Retail,Munster,08/06/2020,87
-Aoife Gavaghan,Female,21,1,Education,Munster,29/06/2020,108
-Daniel O Donnell,Male,57,25,Arts,Munster,n/a,279
-Marian Henry,Female,40,7,Beauty,Munster,29/06/2020,108
-Johnny Byrne,Male,18,1,Real Estate,Leinster,08/06/2020,87
-Erin Kelly,Female,52,15,Accomodation & Food Services,Leinster,29/06/2020,108
-Cian Neary,Male,30,5,Information & Commercial activities,Leinster,29/06/2020,108
-Loretta Surlis,Female,29,7,Beauty,Leinster,29/06/2020,108
-James Dineen,Male,24,4,Accomodation & Food Services,Leinster,29/06/2020,108
-Gillian Leonard,Female,30,6,Human health & social work,Leinster,29/06/2020,108
-Adam McGuinness,Male,47,20,Accomodation & Food Services,Leinster,29/06/2020,108
-Nuala Marren,Female,31,6,Beauty,Connaught,29/06/2020,108
-Conan Roche,Male,41,10,Transport & Storage,Munster,15/05/2020,63
-Catherine Farrell,Female,47,11,Admin & Support,Munster,29/06/2020,108
-Emma ONeill,Female,19,2,Retail,Munster,08/06/2020,87
-Karen Monaghan,Female,58,3,Retail,Munster,08/06/2020,87
-Colin Boyle,Male,52,9,Accomodation & Food Services,Leinster,29/06/2020,108
-Cillian Morgan,Male,19,2,Construction,Leinster,15/05/2020,63
-Dylan Garrett,Male,38,18,Professional & Scientific,Leinster,29/06/2020,108
-Ryan Mc Dermott,Male,22,4,Arts,Leinster,n/a,279
-Eva ONeill,Female,30,4,Accomodation & Food Services,Connaught,29/06/2020,108
-Lesley Burke,Female,50,16,Accomodation & Food Services,Connaught,29/06/2020,108
-Holly Haran,Female,49,5,Retail,Connaught,08/06/2020,87
-Kyle Cummins,Male,22,1,Retail,Leinster,08/06/2020,87
-Mustafa Singh,Male,62,30,Information & Commercial activities,Leinster,29/06/2020,108
-Denise Goldrick,Female,60,5,Accomodation & Food Services,Leinster,29/06/2020,108
-Susan Collins,Female,22,1,Admin & Support,Leinster,29/06/2020,108
-Eliott Muldoon,Male,42,20,Education,Ulster,29/06/2020,108
-Gareth Feely,Male,44,9,Construction,Leinster,15/05/2020,63
-Albert Dalton,Male,21,2,Accomodation & Food Services,Connaught,29/06/2020,108
-Emmet Moran,Male,46,13,Manufacturing,Connaught,29/06/2020,108
-John Maguire,Male,23,3,Transport & Storage,Munster,15/05/2020,63
-David McGauran,Male,50,28,Professional & Scientific,Munster,29/06/2020,108
-Mary OShea,Female,47,3,Accomodation & Food Services,Munster,29/06/2020,108
-Cormac McCarthy,Male,41,11,Construction,Munster,15/05/2020,63
-Regina Gannon,Female,23,2,Beauty,Munster,29/06/2020,108
-Naomi Caffrey,Female,49,15,Admin & Support,Leinster,29/06/2020,108
-Brendan Mullins,Male,48,5,Accomodation & Food Services,Leinster,29/06/2020,108
-Bernard Sanlon,Male,29,2,Beauty,Leinster,29/06/2020,108
-Elaine ORourke,Female,24,1,Retail,Leinster,08/06/2020,87
-Ciara Lee,Female,42,6,Accomodation & Food Services,Leinster,29/06/2020,108
-Michelle Reynolds,Female,32,4,Beauty,Leinster,29/06/2020,108
-Rose Rafferty,Female,24,4,Professional & Scientific,Leinster,29/06/2020,108
-Lisa McNulty,Female,30,5,Accomodation & Food Services,Leinster,29/06/2020,108
+Name,Gender,Age,Tenure,Job_Sector,Province,Amount,Days
+Mark Leonard,Male,35,12,Accomodation & Food Services,Leinster,250,108
+Darragh McGowan,Male,18,1,Accomodation & Food Services,Ulster,203,108
+Amy Walsh,Female,36,13,Accomodation & Food Services,Ulster,250,108
+Liam OHara,Male,39,18,Agriculture & Fisheries,Munster,350,87
+Adrian Harte,Male,25,3,Manufacturing,Munster,300,108
+Molly Henry,Female,55,20,Retail,Munster,350,87
+Oisin Egan,Male,28,4,Retail,Munster,300,87
+Rian Dunne,Male,26,6,Construction,Munster,350,63
+Brian Leaonard,Male,57,5,Retail,Munster,350,87
+Aaron Gaughan,Male,18,1,Retail,Munster,203,87
+Laura Fallon,Female,36,6,Beauty,Munster,250,108
+Gary McIntyre,Male,27,4,Manufacturing,Munster,300,108
+Noel Gavaghan,Male,29,2,Agriculture & Fisheries,Munster,250,87
+Leonie Smith,Female,26,4,Admin & Support,Munster,203,108
+Ruth Price,Female,40,10,Admin & Support,Munster,300,108
+Aisling Quinn,Female,31,2,Accomodation & Food Services,Ulster,250,108
+Stephen Ryan,Male,58,14,Accomodation & Food Services,Ulster,350,108
+Patricia Brett,Female,55,5,Accomodation & Food Services,Ulster,350,108
+Katie Hannon,Female,39,14,Finance & Insurance,Ulster,350,108
+Lilly McDonnell,Female,20,1,Education,Leinster,203,108
+Matthew Gallagher,Male,33,3,Retail,Leinster,350,87
+Michael Smith,Male,39,15,Retail,Leinster,350,87
+David Manley,Male,37,2,Construction,Leinster,350,63
+Nicole Kennedy,Female,18,1,Accomodation & Food Services,Leinster,203,108
+Sarah Lang,Female,32,12,Admin & Support,Leinster,250,108
+Eoin Walsh,Male,19,1,Accomodation & Food Services,Leinster,203,108
+Kevin Earley,Male,19,1,Public Admin,Leinster,300,108
+Barry Jennings,Male,43,9,Manufacturing,Leinster,350,108
+Una Canavan,Female,20,2,Retail,Leinster,203,87
+Lucy Treacy,Female,29,2,Beauty,Leinster,250,108
+Declan Timlin,Male,32,6,Accomodation & Food Services,Leinster,300,108
+Michelle Corcoran,Female,31,4,Accomodation & Food Services,Leinster,250,108
+Tommy Durkin,Male,64,37,Accomodation & Food Services,Leinster,300,108
+Thomas Moilloy,Male,19,1,Arts,Leinster,203,279
+Gerald  Brennan,Male,45,18,Finance & Insurance,Leinster,350,108
+Sean ODriscoll,Male,29,9,Manufacturing,Leinster,250,108
+Niamh Cawley,Female,48,14,Admin & Support,Leinster,300,108
+Helen Watters,Female,38,5,Accomodation & Food Services,Leinster,300,108
+Andrea Carr,Female,54,32,Professional & Scientific,Leinster,350,108
+Claire Bailey,Female,36,12,Human health & social work,Leinster,300,108
+Jack Cresswell,Male,44,5,Retail,Leinster,350,87
+Rachel Bradley,Female,21,3,Beauty,Leinster,203,108
+Louise Martagh,Female,53,5,Accomodation & Food Services,Leinster,350,108
+Glen Curley,Male,34,4,Real Estate,Leinster,350,87
+Marie McVann,Female,56,23,Information & Commercial activities,Leinster,350,87
+Tom Lundy,Male,19,1,Admin & Support,Leinster,203,108
+Deirdre ODonnell,Female,41,6,Public Admin,Leinster,300,108
+Brian Deehan,Male,32,8,Construction,Leinster,350,63
+Sinead Moran,Female,59,33,Accomodation & Food Services,Leinster,350,108
+Declan McManus,Male,20,2,Accomodation & Food Services,Leinster,203,108
+Fiona OConnor,Female,20,3,Retail,Connaught,203,87
+Geoff Hopkins,Male,37,5,Retail,Connaught,350,87
+Fiona Murphy,Female,53,11,Human health & social work,Connaught,350,108
+Joanne Brogan,Female,52,10,Accomodation & Food Services,Connaught,350,108
+Brenda Healy,Female,21,3,Accomodation & Food Services,Connaught,203,108
+Eva Cabellero,Female,61,25,Retail,Connaught,350,87
+Kenny McGrath,Male,47,6,Retail,Munster,350,87
+Aoife Gavaghan,Female,21,1,Education,Munster,203,108
+Daniel O Donnell,Male,57,25,Arts,Munster,250,279
+Martin Henry,Male,40,7,Beauty,Munster,350,108
+Johnny Byrne,Male,18,1,Real Estate,Leinster,203,87
+Erin Kelly,Female,52,15,Accomodation & Food Services,Leinster,350,108
+Cian Neary,Male,30,5,Information & Commercial activities,Leinster,350,108
+Loretta Surlis,Female,29,7,Beauty,Leinster,250,108
+James Dineen,Male,24,4,Accomodation & Food Services,Leinster,300,108
+Gillian Leonard,Female,30,6,Human health & social work,Leinster,300,108
+Adam McGuinness,Male,47,20,Accomodation & Food Services,Leinster,250,108
+Nuala Marren,Female,31,6,Beauty,Connaught,203,108
+Conan Roche,Male,41,10,Transport & Storage,Munster,350,63
+Catherine Farrell,Female,47,11,Admin & Support,Munster,350,108
+Emma ONeill,Female,19,2,Retail,Munster,203,87
+Karen Monaghan,Female,58,3,Retail,Munster,350,87
+Colin Boyle,Male,52,9,Accomodation & Food Services,Leinster,350,108
+Cillian Morgan,Male,19,2,Construction,Leinster,203,63
+Dylan Garrett,Male,38,18,Professional & Scientific,Leinster,350,108
+Ryan Mc Dermott,Male,22,4,Arts,Leinster,203,279
+Eva ONeill,Female,30,4,Accomodation & Food Services,Connaught,203,108
+Lesley Burke,Female,50,16,Accomodation & Food Services,Connaught,350,108
+Holly Haran,Female,49,5,Retail,Leinster,300,87
+Kyle Cummins,Male,22,1,Retail,Leinster,300,87
+Mustafa Singh,Male,62,30,Information & Commercial activities,Leinster,350,108
+Denise Goldrick,Female,60,5,Accomodation & Food Services,Leinster,350,108
+Susan Collins,Female,22,1,Admin & Support,Leinster,250,108
+Eliott Muldoon,Male,42,20,Education,Ulster,350,108
+Gareth Feely,Male,44,9,Construction,Leinster,350,63
+Albert Dalton,Male,21,2,Accomodation & Food Services,Connaught,203,108
+Emmet Moran,Male,46,13,Manufacturing,Connaught,350,108
+John Maguire,Male,23,3,Transport & Storage,Munster,350,63
+David McGauran,Male,50,28,Professional & Scientific,Munster,350,108
+Mary OShea,Female,47,3,Accomodation & Food Services,Munster,300,108
+Cormac McCarthy,Male,41,11,Construction,Munster,350,63
+Regina Gannon,Female,23,2,Beauty,Munster,250,108
+Naomi Caffrey,Female,49,15,Admin & Support,Leinster,350,108
+Brendan Mullins,Male,48,5,Accomodation & Food Services,Leinster,250,108
+Bernard Sanlon,Male,29,2,Beauty,Leinster,250,108
+Elaine ORourke,Female,24,1,Retail,Leinster,250,87
+Ciaran Lee,Male,42,6,Accomodation & Food Services,Leinster,250,108
+Michelle Reynolds,Female,32,4,Beauty,Leinster,250,108
+Rose Rafferty,Female,24,4,Professional & Scientific,Leinster,350,108
+Lisa McNulty,Female,30,5,Accomodation & Food Services,Leinster,300,108
