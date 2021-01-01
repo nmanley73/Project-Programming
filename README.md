@@ -78,14 +78,25 @@ print(x);
 
 ### References
 [1]-UCI: Machine Learning Repository; https://archive.ics.uci.edu/ml/datasets.php
+
 [2]-Vincent Arel Bundock: Available datasets; https://vincentarelbundock.github.io/Rdatasets/articles/data.html
+
 [3]-wikihow: How to Create a CSV File; https://www.wikihow.com/Create-a-CSV-File
+
 [4]-Citizens Information: COVID-19 Pandemic Unemployment Payment; https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/unemployed_people/covid19_pandemic_unemployment_payment.html#
+
 [5]- Gov.ie: COVID-19 Pandemic Unemployment Payment Rates until April 2021; https://www.gov.ie/en/publication/0b0fc-covid-19-pandemic-unemployment-payment-rates-from-17-september-2020/
+
 [6]-365DataScience: Examples of Numerical and Categorical Variables; https://365datascience.com/numerical-categorical-data/
+
 [7]-Alteryx.com: Synthesizing Fake Data for Fun and Profit; https://community.alteryx.com/t5/Data-Science/Synthesizing-Fake-Data-for-Fun-and-Profit/ba-p/427345
+
 [8]-gov.ie: COVID-19 Pandemic Unemployment Payment; https://www.gov.ie/en/press-release/34be6-update-on-payments-awarded-for-covid-19-pandemic-unemployment-payment-and-enhanced-illness-benefit/
+
 [9]-LibreTexts: The Exponential Distribution; https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(OpenStax)/05%3A_Continuous_Random_Variables/5.04%3A_The_Exponential_Distribution#:~:text=For%20example%2C%20the%20amount%20of%20time%20%28beginning%20now%29,of%20time%2C%20in%20months%2C%20a%20car%20battery%20lasts.
+
 [10]-stackoverflow: How do I change the figure size for a seaborn plot?; https://stackoverflow.com/questions/31594549/how-do-i-change-the-figure-size-for-a-seaborn-plot
+
 [11]-pythoncharts: Rotating Axis Labels in Matplotlib; https://www.pythoncharts.com/2019/05/17/rotating-axis-labels/
+
 [12]-Stack Abuse: Generating synthetic data with Numpy and Scikit-Learn; https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/
