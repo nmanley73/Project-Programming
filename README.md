@@ -43,34 +43,34 @@ The tenure variable was populated using the exponential distribution. Most emplo
 
 Uniform distribution code to populate the age variable in the dataset:
 
-# import libraries
+-import libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# use random.uniform distribution to get the age values. 18 and 66 are the lower and upper parameters and size is set to 100 
+-use random.uniform distribution to get the age values. 18 and 66 are the lower and upper parameters and size is set to 100 
 x = sns.displot(np.random.uniform(18, 66, size = 100))
 
-# add title and x label to chart
+-add title and x label to chart
 plt.title("Uniform distribution of age")
 plt.xlabel("Age")
-# show plot
+-show plot
 plt.show();
 
 Exponential distribution code to populate the tenure variable in the dataset:
 
-# import libraries
+-import libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# set n equal to the number of records
+-set n equal to the number of records
 n = 100
 
-# seaborn distplot of exponential distribution
+-seaborn distplot of exponential distribution
 x=sns.distplot(random.exponential(5, size = n))
 
-# Add title and x label to plot
+-Add title and x label to plot
 plt.title("Exponential distribution of tenure")
 plt.xlabel("Tenure")
 print(x);
